@@ -1,5 +1,4 @@
 # BMI-Calculator
-# BMI Calculator
 
 ## Introduction
 This project is a simple Java program that calculates the Body Mass Index (BMI) of a user. 
